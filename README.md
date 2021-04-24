@@ -36,6 +36,6 @@ The UI of project was connected with MySQL Connector 5.1.23 and deployed with Ap
 # Developer Notes
 
 The components of the UI are set to Turkish alphanumerically.
-
+The method of Claim-Character Button from Game interface is raw. It doesn't have any refactoring for the core method. 
 
 
