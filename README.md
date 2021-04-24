@@ -12,8 +12,7 @@ The UI of project was connected with MySQL Connector 5.1.23 and deployed with Ap
 
 # Developer Notes
 
-The components of the UI are written in Turkish characters. 
+The components of the UI are set to Turkish alphanumerically.
 
-Game buttons, warnings and timer tools are set to Turkish alphanumerically.
 
 
