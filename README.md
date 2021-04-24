@@ -24,6 +24,7 @@ The UI of project was connected with MySQL Connector 5.1.23 and deployed with Ap
    ## Timer ##
    - Provide fluency in the game
    - Manipulating buttons to deactivate stopwatch.
+     - Timer timer=new Timer(100, countdown);
    
    ## Labels ##
    - Connecting other components to label to display in the interface
