@@ -9,6 +9,29 @@
 The UI of project was connected with MySQL Connector 5.1.23 and deployed with Apache XAMPP 8.0.2
 
 
+# Utilized Swing Components
+
+   ## Buttons ##
+   - Stop timer button
+   - Claim character of a word
+   - Submit answer of a word from textfield
+   
+   ## Textfield ##
+   - Writing that guess of answer 
+   - Adding a word to the database from Add-Word UI Panel.
+
+
+   ## Timer ##
+   - Provide fluency in the game
+   - Manipulating buttons to deactivate stopwatch.
+   
+   ## Labels ##
+   - Connecting other components to label to display in the interface
+   
+  
+   
+
+
 
 # Developer Notes
 
